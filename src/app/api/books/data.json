@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "MERN Stack",
+    "link": "https://www.amazon.com/Beginning-MERN-Stack-MongoDB-Express/dp/B0979MGJ5J",
+    "img": "https://m.media-amazon.com/images/I/41y8qC9RT0S._SX404_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Beginning GraphQL",
+    "link": "https://www.amazon.com/Beginning-GraphQL-React-NodeJS-Apollo/dp/B0BXMRB5VF/",
+    "img": "https://m.media-amazon.com/images/I/41+PG6uPdHL._SX404_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Beginning React Hooks",
+    "link": "https://www.amazon.com/Beginning-React-Hooks-Greg-Lim/dp/B0892HRT3C/",
+    "img": "https://m.media-amazon.com/images/I/41e9U1d9QIL._SX404_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Node.js Design Patterns",
+    "link": "https://www.amazon.com/Node-js-Design-Patterns-Mario-Casciaro/dp/1783287314/",
+    "img": "https://m.media-amazon.com/images/I/51vLMnARpmL._SX379_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Fullstack Open 2021",
+    "link": "https://fullstackopen.com/en/",
+    "img": "https://fullstackopen.com/static/7b8c485b9502c55030fd3c88ca44e41a/8dc13/hero-image.png"
+  },
+  {
+    "id": 6,
+    "title": "Pro Express.js: Master Express.js: The Node.js Framework For Your Web Development",
+    "link": "https://www.amazon.com/Pro-Express-js-Master-Node-js-Development/dp/1484200381/",
+    "img": "https://m.media-amazon.com/images/I/41B8a9h0hTL._SX342_SY445_.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Learning React: Modern Patterns for Developing React Apps",
+    "link": "https://www.amazon.com/Learning-React-Modern-Patterns-Developing/dp/109810090X/",
+    "img": "https://m.media-amazon.com/images/I/51GVZsouQcL._SX342_SY445_.jpg"
+  },
+  {
+    "id": 8,
+    "title": "GraphQL: The Definitive Guide",
+    "link": "https://www.amazon.com/GraphQL-Definitive-Guide-Creating-APIs/dp/1492030716/",
+    "img": "https://m.media-amazon.com/images/I/51CJPH2eGuL._SX379_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 9,
+    "title": "React Up and Running: Building Web Applications",
+    "link": "https://www.amazon.com/React-Up-Running-Building-Applications/dp/1491931825/",
+    "img": "https://m.media-amazon.com/images/I/91p+riY2nPL._SY466_.jpg"
+  },
+  {
+    "id": 10,
+    "title": "MongoDB: The Definitive Guide",
+    "link": "https://www.amazon.com/MongoDB-Definitive-Guide-Kristina-Chodorow/dp/1491954469/",
+    "img": "https://m.media-amazon.com/images/I/51n4OPvZiWL._SY445_SX342_.jpg"
+  }
+]

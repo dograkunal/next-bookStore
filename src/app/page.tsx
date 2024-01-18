@@ -1,5 +1,9 @@
-import Image from "next/image";
-
-export default function Home() {
-  return <>Hey</>;
-}
+import Books from "./components/Books";
+const HomePage = () => {
+  return (
+    <>
+      <Books />
+    </>
+  );
+};
+export default HomePage;
