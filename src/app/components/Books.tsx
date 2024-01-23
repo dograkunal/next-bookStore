@@ -4,6 +4,7 @@ import { useState, useEffect } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import LoadingPage from "../loading";
+import AddBook from "./AddBook";
 
 async function getBooks() {
   const res = await fetch("http://localhost:3000/api/books");
@@ -49,6 +50,7 @@ const Books = () => {
             Search
           </button>
         </form>
+        <AddBook />
       </div>
       <div className="flex flex-wrap">
         {books.map((book) => (
